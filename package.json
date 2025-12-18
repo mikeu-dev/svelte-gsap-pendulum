@@ -1,6 +1,6 @@
 {
 	"name": "svelte-gsap-pendulum",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Efek pendulum animasi berbasis GSAP untuk Svelte 5",
 	"scripts": {
 		"dev": "vite dev",
